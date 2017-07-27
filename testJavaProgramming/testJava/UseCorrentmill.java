@@ -24,5 +24,6 @@ public class UseCorrentmill {
 	private static void displayTime(long time) {
 
 		System.out.println("プログラム起動から" + time + "ミリ秒経過");
+		System.out.println("Second Commit.");
 	}
 }
